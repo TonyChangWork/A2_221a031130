@@ -16,6 +16,8 @@ import androidx.core.view.WindowInsetsCompat;
 
 import java.util.Locale;
 
+// Xu ly stopwatch va lifecycle
+
 public class MainActivity extends AppCompatActivity {
 
     // TODO: thay 2201234567 bằng MSSV của bạn
